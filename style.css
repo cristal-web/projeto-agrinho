@@ -1,15 +1,17 @@
-/* RESETA O NAVEGADOR *\
-
 * {
-   maring: 0;
-   padding: 0;
-   box-sizing: border-box
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
 }
-/* ALETERAR A COR DO FUNDO E A FONTE DAS LETRAS*\
+
+/*  */
 body {
-      background-color: bisque;
-      
+background-color: blue;
+font-family: sans-serif;
 }
 
 .cabecalho {
+      background-color: blueviolet;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+      ;
 }
